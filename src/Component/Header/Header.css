@@ -1,0 +1,21 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: brown;
+  cursor: pointer;
+  align-items: center;
+  margin: 10px 10px;
+}
+.navigation {
+  display: flex;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.header-image {
+  height: 60px;
+  width: 80px;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("./4.4\ crown.svg.svg");
+}
